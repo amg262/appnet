@@ -1,0 +1,10 @@
+{
+    "name": "andy/appnet",
+    "authors": [
+        {
+            "name": "Andrew Gunn",
+            "email": "andrewmgunn26@gmail.com"
+        }
+    ],
+    "require": {}
+}
